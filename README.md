@@ -28,7 +28,7 @@ I've worked at GeeksforGeeks, BlackBucks, Mavenwit, and Axeno Consulting, where 
 `Django` `Node.js` `Express.js` `React.js` `Bootstrap`
 
 **Tools:**  
-`Git` `GitHub` `Postman` `Jenkins` `Adobe Cloud Manager` `VS Code` `IntelliJ`
+`Git` `GitHub` `Postman` `Jenkins` `Adobe Cloud Manager` 
 
 **Databases:**  
 `MySQL` `MongoDB`
@@ -37,7 +37,7 @@ I've worked at GeeksforGeeks, BlackBucks, Mavenwit, and Axeno Consulting, where 
 `JWT` `OAuth`
 
 **Others:**  
-`AEM` `REST APIs` `CI/CD` `Docker (basic)` `Figma`
+`AEM` `REST APIs` `CI/CD` `Docker` `Figma`
 
 ---
 
