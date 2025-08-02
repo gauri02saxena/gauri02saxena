@@ -2,11 +2,11 @@
 
 **💻 Full Stack Developer** | **Java, Python, C++, MERN, AEM, REST APIs**  
 
-Passionate about building clean, scalable, and impactful software solutions.
+💡 Passionate about building clean, scalable, and impactful software solutions.
 
 ---
 
-## 🧑‍💼 About Me
+## 👩‍💼 About Me
 
 I'm a software developer with hands-on experience in building full-stack web applications, designing RESTful APIs, and contributing to real-world projects.  
 I've worked at GeeksforGeeks, BlackBucks, Mavenwit, and Axeno Consulting, where I worked on state-level applications, CI/CD pipelines, and enterprise tools.
@@ -25,10 +25,10 @@ I've worked at GeeksforGeeks, BlackBucks, Mavenwit, and Axeno Consulting, where 
 `Java` `Python` `C++` `JavaScript` `HTML` `CSS` 
 
 **Frameworks:**  
-`Django` `Node.js` `Express.js` `React.js` 
+`Django` `Node.js` `Express.js` `React.js` `Bootstrap`
 
 **Tools:**  
-`Git` `GitHub` `Postman` `Jenkins` `Adobe Cloud Manager`
+`Git` `GitHub` `Postman` `Jenkins` `Adobe Cloud Manager` `VS Code` `IntelliJ`
 
 **Databases:**  
 `MySQL` `MongoDB`
@@ -37,16 +37,15 @@ I've worked at GeeksforGeeks, BlackBucks, Mavenwit, and Axeno Consulting, where 
 `JWT` `OAuth`
 
 **Others:**  
-`AEM` `REST APIs` `CI/CD` `Docker `
+`AEM` `REST APIs` `CI/CD` `Docker (basic)` `Figma`
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gaurisaxena02/)
-[![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](mailto:gaurisaxena7379@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github)](https://github.com/gauri02saxena)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurisaxena02/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurisaxena7379@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauri02saxena)
 
 ---
 
