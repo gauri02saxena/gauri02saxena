@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Gauri Saxena
 
 **💻 Full Stack Developer** | **Java, Python, C++, MERN, AEM, REST APIs**  
+
 Passionate about building clean, scalable, and impactful software solutions.
 
 ---
@@ -21,10 +22,10 @@ I've worked at GeeksforGeeks, BlackBucks, Mavenwit, and Axeno Consulting, where 
 ## ⚙️ Tech Stack
 
 **Languages:**  
-`Java` `Python` `C++` `JavaScript`  
+`Java` `Python` `C++` `JavaScript` `HTML` `CSS` 
 
 **Frameworks:**  
-`Django` `Node.js` `React.js`
+`Django` `Node.js` `Express.js` `React.js` 
 
 **Tools:**  
 `Git` `GitHub` `Postman` `Jenkins` `Adobe Cloud Manager`
@@ -42,9 +43,10 @@ I've worked at GeeksforGeeks, BlackBucks, Mavenwit, and Axeno Consulting, where 
 
 ## 📫 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gaurisaxena02/)
-- 📧 [gaurisaxena7379@gmail.com](mailto:gaurisaxena7379@gmail.com)
-- 🌐 [GitHub Profile](https://github.com/gauri02saxena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gaurisaxena02/)
+[![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](mailto:gaurisaxena7379@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github)](https://github.com/gauri02saxena)
+
 
 ---
 
